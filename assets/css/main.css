@@ -1927,6 +1927,8 @@
 
 		.location {
 			float: left;
+			margin-top: 15px;
+			margin-left: 15px;
 		}
 /* Box */
 
